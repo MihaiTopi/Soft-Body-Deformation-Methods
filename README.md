@@ -49,8 +49,6 @@ The FEM comparison should not be interpreted as a direct implementation or perfo
 
 ## Visual Demonstrations
 
-The following GIFs are located in the `VisualDemonstration` folder.
-
 These demonstrations use a **high-impact-force test context**. The purpose is to exaggerate deformation and mimic the high deformability visible in the FEM reference. This also helps reveal the limitations of the basic, close-to-the-roots real-time implementations.
 
 ### Mass-Spring Systems
